@@ -7,7 +7,6 @@
 </p>
 
 
-### Thanks for visiting! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=themythia.visitor-badge)
 
 
 
