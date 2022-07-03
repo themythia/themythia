@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Emir! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi there, I'm Emir!</h1>
 <h3 align="center">A self-taught frontend developer mainly focusing on React.</h3>
 
 <p align="center">
