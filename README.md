@@ -10,7 +10,7 @@
 
 
 
-- 👩‍💻 I'm currently working on a new design to update my website.
+- 👩‍💻 I'm currently learning GraphQL.
 - 💻 My projects are available on my **[website](https://emir.al/)**
 
 <h3 align="left">Languages and Frameworks:</h3>
