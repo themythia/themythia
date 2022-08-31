@@ -10,7 +10,7 @@
 
 
 
-- 👩‍💻 I'm currently learning GraphQL.
+- 👩‍💻 I'm currently learning TypeScript.
 - 💻 My projects are available on my **[website](https://emir.al/)**
 
 <h3 align="left">Languages and Frameworks:</h3>
