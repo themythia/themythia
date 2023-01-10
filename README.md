@@ -34,6 +34,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
 </span>
 
-<h3 align="left">Stats:</h3>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=themythia&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=themythia&theme=dark&layout=compact&hide_border=true" />
